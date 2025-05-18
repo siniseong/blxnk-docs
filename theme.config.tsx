@@ -8,6 +8,10 @@ export default {
     link: 'https://github.com/siniseong/blxnk',
   },
   footer: {
-    text: '© 2025 blxnk. All rights reserved.',
+    text: (
+      <>
+        © 2025 blxnk. All rights reserved. · Developed by siniseong
+      </>
+    ),
   },
 } as const;
