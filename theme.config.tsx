@@ -5,7 +5,7 @@ export default {
   },
   logo: 'blxnk Docs',
   project: {
-    link: 'https://github.com/siniseong/blxnk',
+    link: 'https://github.com/siniseong/blxnk-docs',
   },
   footer: {
     text: (
