@@ -1,3 +1,19 @@
 {
-  "index": "시작하기"
+  "index": "blxnk docs 시작하기",
+  "frontend": {
+    "title": "Frontend",
+    "type": "page"
+  },
+  "backend": {
+    "title": "Backend",
+    "type": "page"
+  },
+  "security": {
+    "title": "Security",
+    "type": "page"
+  },
+  "embedded": {
+    "title": "Embedded",
+    "type": "page"
+  }
 }
