@@ -7,6 +7,14 @@ export default {
   project: {
     link: 'https://github.com/siniseong/blxnk-docs',
   },
+  editLink: {
+    content: '',
+    component: () => null,
+  },
+  feedback: {
+    content: '',
+    component: () => null,
+  },
   footer: {
     text: (
       <>
