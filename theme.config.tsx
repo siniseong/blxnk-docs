@@ -26,6 +26,9 @@ export default {
     { title: 'Frontend', path: '/frontend' },
     { title: 'Backend', path: '/backend' },
     { title: 'Security', path: '/security' },
-    { title: 'Embedded', path: '/embedded' },
+    { title: 'Embedded', path: '/embedded' }
   ],
+  title: {
+    className: 'mr-8'
+  }
 } as const;

@@ -1,19 +1,27 @@
 {
-  "index": "blxnk docs 시작하기",
+  "index": {
+    "title": "/",
+    "type": "page",
+    "path": "/"
+  },
   "frontend": {
-    "title": "Frontend",
-    "type": "page"
+    "title": "FE",
+    "type": "page",
+    "path": "/frontend"
   },
   "backend": {
-    "title": "Backend",
-    "type": "page"
+    "title": "BE",
+    "type": "page",
+    "path": "/backend"
   },
   "security": {
-    "title": "Security",
-    "type": "page"
+    "title": "Sec",
+    "type": "page",
+    "path": "/security"
   },
   "embedded": {
-    "title": "Embedded",
-    "type": "page"
+    "title": "Emb",
+    "type": "page",
+    "path": "/embedded"
   }
 }
