@@ -23,10 +23,11 @@ export default {
     ),
   },
   navigation: [
-    { title: 'Frontend', path: '/frontend' },
-    { title: 'Backend', path: '/backend' },
-    { title: 'Security', path: '/security' },
-    { title: 'Embedded', path: '/embedded' }
+    { title: '/', path: '/' },
+    { title: 'FE', path: '/frontend' },
+    { title: 'BE', path: '/backend' },
+    { title: 'Sec', path: '/security' },
+    { title: 'Emb', path: '/embedded' }
   ],
   title: {
     className: 'mr-8'
