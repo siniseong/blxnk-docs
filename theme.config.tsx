@@ -22,4 +22,10 @@ export default {
       </>
     ),
   },
+  navigation: [
+    { title: 'Frontend', path: '/frontend' },
+    { title: 'Backend', path: '/backend' },
+    { title: 'Security', path: '/security' },
+    { title: 'Embedded', path: '/embedded' },
+  ],
 } as const;
