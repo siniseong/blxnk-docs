@@ -1,1 +1,42 @@
-## blxnk Docs
+# 여백이 여러분의 '기술 면접'을 도와줄게요.
+
+본 문서는 소프트웨어 엔지니어 기술 면접을 준비하는 여러분을 돕기 위해 작성되었습니다. 다양한 기술 회사에서 공통적으로 중요하게 여기는 핵심 역량과 지식을 평가하기 위해 자주 출제되는 질문들을 분야별로 모아 정리하였습니다. 각 질문에 대한 상세한 답변과 함께 관련 개념을 깊이 이해하는 데 초점을 맞추어, 면접에서 자신감을 가지고 여러분의 기술적 역량을 효과적으로 전달할 수 있도록 구성했습니다.
+
+본 가이드가 기술 면접 준비에 실질적인 도움이 되기를 바랍니다. 단순 암기를를 넘어, 질문의 배경과 관련 기술의 동작 원리를 이해하는 데 집중하시길 권장합니다.
+
+## 기여 방법
+
+여러분의 소중한 기여로 이 문서를 더 완성도 높게 만들어 주세요.  
+
+문서를 읽으신 후, 커밋 메시지는 [커밋 컨벤션 가이드](/commit-guide)에 맞춰 작성해 주시고, PR은 자유롭게 올려 주세요.  
+오타 수정, 내용 보완, 새로운 질문 추가 등 모든 형태의 기여를 환영합니다.
+
+## 기여해 주셔서 감사합니다 :)
+<table>
+  <tbody>
+    <tr>
+          <td align="center">
+        <a href="https://github.com/siniseong">
+          <img
+            alt="신희성 (FE)"
+            src="https://avatars.githubusercontent.com/siniseong"
+            width="120"
+          />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/gyumingim">
+          <img
+            alt="김규민 (FE)"
+            src="https://avatars.githubusercontent.com/gyumingim"
+            width="120"
+          />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">신희성 (FE)</td>
+      <td align="center">김규민 (FE)</td>
+    </tr>
+  </tbody>
+</table>
