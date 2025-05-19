@@ -23,5 +23,10 @@
     "title": "Emb",
     "type": "page",
     "path": "/embedded"
+  },
+  "commit-guide": {
+    "title": "커밋 컨벤션 가이드",
+    "type": "docs",
+    "path": "/commit-guide"
   }
 }
